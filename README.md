@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Saadhitya 👋</h1>
 
-<!--
-**SaadhityaSD/SaadhityaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    👨‍💻 B.Tech CSE | 8.5 CGPA | 600+ Skillrack | 100+ LeetCode | SDE Enthusiast | Building → Learning 🚀
+  </em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 I'm a passionate self-learner, exploring AI/ML, AR, and real-world software systems.
+- 💻 Solved over 700+ coding problems (Skillrack + LeetCode combined)
+- 🎯 Currently building: Emotion Recognition, Concrete Optimizer, AI Chatbot
+- 🌱 Learning: Deep Learning, MLOps, AR in Unity
+
+---
+
+### 🛠 Tech Stack
+
+- 💻 Languages: Python, C, Java
+- 🤖 ML Tools: NumPy, pandas, scikit-learn, TensorFlow
+- 🧪 Tools: Git, VS Code, Postman, Jupyter
+- 🔧 Dev: Linux, GitHub, Firebase, Unity (AR Basics)
+
+---
