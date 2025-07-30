@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    👨‍💻 B.Tech CSE | 8.5 CGPA | 600+ Skillrack | 100+ LeetCode | SDE Enthusiast | Building → Learning 🚀
+    👨‍💻 B.Tech CSE | 8.5 CGPA | 600+ Skillrack | SDE Enthusiast | Building → Learning 🚀
   </em>
 </p>
 
