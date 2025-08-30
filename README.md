@@ -17,7 +17,9 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 ## 🧑‍💻 Technical Expertise  
 
 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+
+
 
 **Web Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) \ ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -26,7 +28,7 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 **DevOps & Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
@@ -38,10 +40,12 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🌐 Multilingual Skills
+![English](https://img.shields.io/badge/English-000000?style=for-the-badge&logo=google-translate&logoColor=white) ![German](https://img.shields.io/badge/German-000000?style=for-the-badge&logo=google-translate&logoColor=white) ![French](https://img.shields.io/badge/French-000000?style=for-the-badge&logo=google-translate&logoColor=white) ![Hindi](https://img.shields.io/badge/Hindi-000000?style=for-the-badge&logo=google-translate&logoColor=white) ![Tamil](https://img.shields.io/badge/Tamil-000000?style=for-the-badge&logo=google-translate&logoColor=white) ![Malayalam](https://img.shields.io/badge/Malayalam-000000?style=for-the-badge&logo=google-translate&logoColor=white)
 
 
 
-## 💡 What I Do  
+## 💡 Areas I Work On
 
 - **Full Stack Development:** Creating responsive websites and scalable web applications using modern frameworks and tools.   
 - **Cybersecurity Awareness:** Gained practical exposure via Tata Virtual Internship in Cybersecurity.  
@@ -90,7 +94,7 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 ---
 
 
-## 🎯 What I Value  
+## 🎯 My Work Ethos
 
 - **Integrity & Reliability:** Writing clean, maintainable code and delivering solutions that users can trust.  
 - **Continuous Learning:** Exploring new technologies, from GenAI to cloud & DevOps, to stay future-ready.  
