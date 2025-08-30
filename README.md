@@ -10,8 +10,6 @@ With experiences ranging from building websites for **DMAX Academy** to particip
 
 My goal is simple — to engineer technology that solves problems, empowers people, and creates lasting impact.  
 
-- 🌐 **Languages:** English, German, French ,Hindi , Tamil ,Malyalam.
-
 ---
 
 ## 🧑‍💻 Technical Expertise  
@@ -120,3 +118,5 @@ I am open to exciting roles in **software engineering, cloud architecture, full-
 > ⭐️ If you like my work, star a repo or connect — let's build the future together!
 
 ---
+
+
