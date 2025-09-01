@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Saadhitya 👋</h1>
+<h1 align="center">HEY, I'M SAADHITYA SD👋</h1>
 
 
-## 🚀 About Me  
+##  About Me  
 
-👩‍💻 I’m **Saadhitya S D**, a passionate **B.Tech Computer Science student** aspiring to become a **Software Development Engineer (SDE)**.  
+ I’m **Saadhitya S D**, a passionate **B.Tech Computer Science student** aspiring to become a **Software Development Engineer (SDE)**.  
  My interests span **Full-Stack Development, DevOps, Cybersecurity, and AR/VR**, where I love turning ideas into practical and scalable solutions.  
 
 With experiences ranging from building websites for **DMAX Academy** to participating in **coding challenges, GenAI workshops, and industry certifications**, I’ve learned that growth comes from curiosity, consistency, and collaboration.  
@@ -12,7 +12,7 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 
 ---
 
-## 🧑‍💻 Technical Expertise  
+## 👩‍💻 Technical Expertise  
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
@@ -73,24 +73,6 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 </p>
 
 ---
-## 🌱 Currently Learning  
-
-- Data Structures & Algorithms (DSA) for problem-solving and competitive coding  
-- Full-Stack Development (Advanced React, Next.js, REST & GraphQL APIs)  
-- Cloud & DevOps (AWS, CI/CD, Docker, Security Fundamentals)  
-- Artificial Intelligence & GenAI (NLP, Generative Models, AI-powered applications) 
-- Immersive Technologies (AR/VR) — building projects.
-
- 
----
-## 💬 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/saadhityasd/)  
-- 🌐 [Portfolio](https://saadhityasd.github.io)  
-- 📩 Email: **sdsaadhitya13@gmail.com**  
-
----
-
 
 ## 🎯 My Work Ethos
 
@@ -105,6 +87,13 @@ My goal is simple — to engineer technology that solves problems, empowers peop
 ## 📝 Open to Opportunities
 
 I am open to exciting roles in **software engineering, cloud architecture, full-stack development**, and **technical leadership**. Feel free to reach out if you believe my skills and vision align with your team!
+
+
+---
+
+## 💬 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadhityasd/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdsaadhitya13@gmail.com)  
 
 ---
 
